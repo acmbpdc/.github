@@ -3,7 +3,7 @@
 
 ## ACM Code of Ethics and Professional Conduct
 
-Refer to the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/publications/code-of-ethics-and-professional-conduct) for more information.
+Refer to the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) for more information.
 
 ## Our Pledge
 
