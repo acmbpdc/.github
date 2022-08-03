@@ -41,7 +41,7 @@ Before submitting an issue, please see [GitHub issues](https://guides.github.com
 
 ### **Suggesting Enhancements**
 
-This section guides you through submitting an enhancement suggestion, including new courses and minor improvements to existing lists. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion such as a new file/folder. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
 Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue and provide the following information:
 
