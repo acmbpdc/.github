@@ -16,7 +16,7 @@ Welcome to the [ACM BPDC](https://www.acmbpdc.org/), a student-run chapter of [A
 
 ## 💖 How to be involved? 
 
-To get involved with our community, please make sure you are familiar with our [Code of Conduct](https://github.com/acmbpdc/.github/CODE_OF_CONDUCT.md).
+To get involved with our community, please make sure you are familiar with our [Code of Conduct](https://github.com/acmbpdc/.github/blob/main/CODE_OF_CONDUCT.md).
 
 - Attend one of our [events](https://www.acmbpdc.org/events)
 - Contribute to our repositories on [GitHub](https://github.com/acmbpdc)
