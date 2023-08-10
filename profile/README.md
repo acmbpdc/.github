@@ -12,7 +12,7 @@
 
 ## ✨ Welcome
 
-Welcome to the [ACM BPDC](https://www.acmbpdc.org/), a student-run chapter of [ACM](https://www.acm.org/) at BITS Pilani Dubai Campus, with over 150 registered members, that aims to provide a platform for students to learn about computing and its applications. We conduct various [events](https://www.acmbpdc.org/events) over a wide variety of topics like Programming Fundamentals, Data Science, Machine Learning, Competitive Programming and Cyber-Security.
+Welcome to the [ACM BPDC](https://www.acmbpdc.org/), a student-run chapter of [ACM](https://www.acm.org/) at BITS Pilani Dubai Campus, with over 250 registered members, that aims to provide a platform for students to learn about computing and its applications. We conduct various [events](https://www.acmbpdc.org/events) over a wide variety of topics like Programming Fundamentals, Data Science, Machine Learning, Competitive Programming and Cyber-Security.
 
 ## 💖 How to be involved? 
 
