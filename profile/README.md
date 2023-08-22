@@ -3,8 +3,7 @@
   <a href="https://www.acmbpdc.org"><img src="https://github.com/acmbpdc/.github/raw/main/assets/logo.png" alt="ACMBPDC logo" width=150></a>
   <h2><em>Advancing Computing as a Science and Profession</em></h2>
 </div>
-
----
+<br>
 
 <div align="center">
   <a href="https://instagram.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://discord.gg/DYQdxquYwP"><img src="https://img.shields.io/badge/ACMBPDC-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://facebook.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://twitter.com/acmbpdc"><img src="https://img.shields.io/badge/ACMBPDC-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
