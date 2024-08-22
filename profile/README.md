@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <a href="https://www.acmbpdc.org"><img src="https://github.com/acmbpdc/.github/raw/main/assets/logo.png" alt="ACMBPDC logo" width=150></a>
+  <a href="https://www.acmbpdc.org"><img src="https://github.com/acmbpdc/.github/raw/main/assets/ACM_Chapter.png" alt="ACMBPDC logo" width=150></a>
   <h2><em>Advancing Computing as a Science and Profession</em></h2>
 </div>
 <br>
